@@ -9,7 +9,7 @@ All rights reserved.
 
 Developed by:
 
-    LLVM Team
+    Austin Wells & The LLVM Team
 
     University of Illinois at Urbana-Champaign
 
@@ -60,4 +60,3 @@ licenses, and/or restrictions:
 Program             Directory
 -------             ---------
 <none yet>
-
